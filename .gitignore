@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+ai-agent/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Node.js
+node_modules/
+
+# Uploaded files
+uploads/
+reports/
